@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Phil Loatman
+email: Info@philloatman.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Phil Loatman"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am currently an Assistant Vice President of Data Science at Lincoln Financial Group. My research interests include cognitive science, judgment and decision making, experimental & behavioral economics, quantitative finance, and computational modeling. I have a PhD in Cognitive Science from Stony Brook University with advanced certification in Quantitative Methods."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
