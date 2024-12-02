@@ -60,10 +60,10 @@ plugins:
 author:
   name   : "Phil Loatman"
   avatar : "/assets/images/phil_loatman_site.png"
-  bio    : "AVP, Data Science Lincoln Financial Group. My research interests include cognitive science, judgment and decision making, experimental & behavioral economics, quantitative finance, and computational modeling. I have a PhD in Cognitive Science from Stony Brook University with advanced certification in Quantitative Methods."
+  bio    : 
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "https://philloatman.com"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
